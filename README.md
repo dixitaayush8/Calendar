@@ -1,0 +1,1 @@
+Class project for CS 151 that loads events from a txt file and allows users to access those events in a day view and month view, delete events, and create new events via the console. 
